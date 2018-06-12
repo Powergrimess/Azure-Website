@@ -4,7 +4,7 @@ body {
 }
 
 header {
-	background: white;
+	background: pink;
 	color: white;
 	margin: 15% 55% 1% 25%;
 	width: 30%;
@@ -30,7 +30,7 @@ img {
 
 #power {
 	background: #505050;
-	color: white;
+	color: pink;
 	width: 94%;
 	height: 20px;
 	float: left;
